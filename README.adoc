@@ -2,8 +2,8 @@
 
 :toc:
 
-https://smile921.github.io/blog.io[Smile921's blog Home ] +
-https://smile921.github.io/blog.io/hubpress[Smile921's blog admin ] 
+https://smile921.github.io/blog.ioo[Smile921's blog Home ] +
+https://smile921.github.io/blog.ioo/hubpress[Smile921's blog admin ] 
 
 == What Is HubPress?
 image::http://hubpress.io/img/editor.png[]
